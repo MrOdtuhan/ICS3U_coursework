@@ -8,7 +8,7 @@
     - With your phone or chrome extension “screencastify”.
     - Speak, using proper terminology concerning the required coding concepts above and how you used them to accomplish whatever you did for your game.
     - 3 minutes
-- Place the code for your game in your ics2o-classwork repository.
+- Place the code for your game in your classwork repository.
 - Attach the link to the file and your video to the Google Classroom assignment.
 
 ## Checklist
@@ -22,7 +22,7 @@
     - [ ] I talk about if statements and how they direct the flow of the story.
     - [ ] I talk about input and output and their importance for my game.
     - [ ] My video is 3 minutes or less.
-- [ ] I have placed my code in my `ics2o-classwork` repository.
+- [ ] I have placed my code in my `classwork` repository.
     - [ ] I have named the file `adventure_game_part1.py`. **The `.py` part is important**!
 - [ ] I have submitted the assignment properly on Google Classroom.
     - [ ] I have attached a link to my code on GitHub.
