@@ -1,4 +1,4 @@
-# Menu options with a for loop
+# Menu options with a for/while loop
 The goal of this assignment is to lead you towards being able to create a menu in a program *using a for or while loop*.
 
 Example result:
