@@ -27,10 +27,10 @@ sum_list([4, 2, 6, 7])
 find_item_in_list("c", ["a", "b", "c"])
 ```
 
-1. Create a function that takes a number and
+3. Create a function that takes a number and
 returns that number *2
-2. Create a function that takes a name and
+4. Create a function that takes a name and
 returns a string saying "Hello, {name}!".
-3. Create a function that takes a list
+5. Create a function that takes a list
 and returns a new list of only the non 
 negative numbers.
